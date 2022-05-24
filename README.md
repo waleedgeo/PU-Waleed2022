@@ -18,9 +18,9 @@ If you find this work usefull in any way, don't forget to cite:
 
 
 
-DOI: https://doi.org/10.1016/j.rsase.2021.100665
+**DOI:** https://doi.org/10.1016/j.rsase.2021.100665
 
-Paper pdf: [Waleed *et al.* (2021)][waleed2021]
+**Paper pdf:** [Waleed *et al.* (2021)][waleed2021]
 
 
 Abstract
@@ -29,10 +29,10 @@ Abstract
 Monitoring spatial-temporal land use land cover (LULC) patterns and related processes (e.g., land surface temperature—LST) is essential to sustainable development at local, regional, and national levels. In this context, the present study leverages cloud-computing-based Google Earth Engine and geo-information modelling techniques to provide spatial-temporal insights regarding LULC and LST over the past three decades (1990–2020) in Pakistan—a south Asian country with ∼212 million people. Additionally, using Punjab province (the most populous and developed in Pakistan) as the study area, we empirically evaluate the association between several LULC types (i.e., built-up, forests, agriculture, rangeland, barren, and water) and LST. Our results show that due to the transition from rangeland and agriculture LULC to built-up areas (contributing 38 and 37%, respectively), ∼250% increase is observed in the impervious surface in Punjab during 1990–2020. While the rapid urbanization has resulted in ∼8.5 percent annual increase in built-up area during the study period, the highest percent change (∼10.5%) occurred during the most recent decade (i.e., 2010–2020). This increase in built-up areas has led to LST rise with 1.4 °C increase in maximum annual LST in Punjab. In addition, among the evaluated top-20 cities, the most significant rise in LST is observed by Kasur city followed by Chiniot, Sheikhupura, Sahiwal, and Lahore—areas known for industrial development in Pakistan. While the results on LULC provide important references for rational and optimal utilization of land resource via policy implications, the association between LULC and LST ascertains why it is critical to design sustainable LULC planning and management practices for climate change mitigation and adaptation.
 
 <p align="center">
-  <img src="Material/images/change_map.png", width="800" />
+
+[<img src="Material/images/change_map.png" width="800" title="Waleed2021" />][waleed2021]
+
 </p>
-
-
 
 GEE (JavaScript) based Applications
 ============================
@@ -44,7 +44,7 @@ GEE (JavaScript) based Applications
 How to use this data in your research
 ===========================================
 
-For all the aformentioned resources (apps, pdf, notebooks), you can find in Resources folder. You can clone this repo using `Git`. For that, run this code in terminal 
+For all the aformentioned resources (apps & notebooks), you can find in Resources folder. You can clone this repo using `Git`. For that, run this code in terminal 
 
     git clone https://github.com/waleed-gis/PU-Waleed2021
 
@@ -83,7 +83,7 @@ Contributors
 [orcid]: https://orcid.org/0000-0003-0006-2490
 [Gmail]: mailto:mirzawaleed197@gmail.com
 
-[waleed2021]: Resources/Paper_PDF/waleed2021.pdf
+[waleed2021]: https://drive.google.com/file/d/15S7TzBYdyYUBULQ9UUQ6ngeI-G6fhRTx/view?usp=sharing
 
 [Google Scholar1]: https://scholar.google.com/citations?user=iuXamUEAAAAJ&hl=en
 [LinkedIn1]: https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/
