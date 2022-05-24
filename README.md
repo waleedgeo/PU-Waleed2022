@@ -16,7 +16,7 @@ If you find this work usefull in any way, don't forget to cite:
     
     Waleed, M., & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665.
 
-    DOI: https://doi.org/10.1016/j.rsase.2021.100665
+
 
 DOI: https://doi.org/10.1016/j.rsase.2021.100665
 
@@ -31,6 +31,7 @@ Monitoring spatial-temporal land use land cover (LULC) patterns and related proc
 <p align="center">
   <img src="Material/images/change_map.png", width="800" />
 </p>
+
 
 
 GEE (JavaScript) based Applications
