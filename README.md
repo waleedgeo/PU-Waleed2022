@@ -28,15 +28,27 @@ If you find this work usefull in any way, don't forget to cite:
 <p style='text-align: justify;'> Monitoring spatial-temporal land use land cover (LULC) patterns and related processes (e.g., land surface temperature—LST) is essential to sustainable development at local, regional, and national levels. In this context, the present study leverages cloud-computing-based Google Earth Engine and geo-information modelling techniques to provide spatial-temporal insights regarding LULC and LST over the past three decades (1990–2020) in Pakistan—a south Asian country with ∼212 million people. Additionally, using Punjab province (the most populous and developed in Pakistan) as the study area, we empirically evaluate the association between several LULC types (i.e., built-up, forests, agriculture, rangeland, barren, and water) and LST. Our results show that due to the transition from rangeland and agriculture LULC to built-up areas (contributing 38 and 37%, respectively), ∼250% increase is observed in the impervious surface in Punjab during 1990–2020. While the rapid urbanization has resulted in ∼8.5 percent annual increase in built-up area during the study period, the highest percent change (∼10.5%) occurred during the most recent decade (i.e., 2010–2020). This increase in built-up areas has led to LST rise with 1.4 °C increase in maximum annual LST in Punjab. In addition, among the evaluated top-20 cities, the most significant rise in LST is observed by Kasur city followed by Chiniot, Sheikhupura, Sahiwal, and Lahore—areas known for industrial development in Pakistan. While the results on LULC provide important references for rational and optimal utilization of land resource via policy implications, the association between LULC and LST ascertains why it is critical to design sustainable LULC planning and management practices for climate change mitigation and adaptation. </p>
 
 
-<p align="center">
-<img src="Material/images/change_map.png" width="800" title="Waleed2021" />
-</p>
+[<img src="Material/images/change_map.png" title="Waleed et al. 2021" />](https://doi.org/10.1016/j.rsase.2021.100665)
+
 
 GEE (JavaScript) based Applications
 ============================
 
 
-### Under Progress....
+## App No. 1: Land-use maps visualization using 4-SplitMaps
+
+
+[<img src="Material\images\app1_ss.png" title="App1-4SplitMaps" />](https://waleedgis.users.earthengine.app/view/pululcapp24splitmaps)
+
+
+
+
+The app contains visualization of land use land cover (LULC) for years 1990, 2000, 2010, and 2020. Although the app is prepared primarily to visualize the LULC for Punjab, we have planned to add functionality to this app in future (i.e. adding zonal statistics based on districts/divisions and change analysis)
+
+
+Link to GEE bassed App (4SplitMaps):
+
+- https://waleedgis.users.earthengine.app/view/pululcapp24splitmaps
 
 
 How to use this data in your research
