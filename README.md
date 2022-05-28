@@ -2,7 +2,7 @@
 
 
 Hi, Welcome to this repo!
-Here you will find various supporting materials for Waleed et al. 2021 paper including:
+Here you will find various supporting materials for Waleed & Sajjad (2022) paper including:
 
     1. GEE Javascript based interactive Apps
     2. Pdf version of paper
@@ -20,7 +20,7 @@ If you find this work usefull in any way, don't forget to cite:
 
 **DOI:** https://doi.org/10.1016/j.rsase.2021.100665
 
-**Paper pdf:** [Waleed *et al.* (2021)][waleed2021]
+**Paper pdf:** [Waleed & Sajjad (2022))][waleed2021]
 
 
 # Abstract
@@ -46,9 +46,9 @@ GEE (JavaScript) based Applications
 The app contains visualization of land use land cover (LULC) for years 1990, 2000, 2010, and 2020. Although the app is prepared primarily to visualize the LULC for Punjab, we have planned to add functionality to this app in future (i.e. adding zonal statistics based on districts/divisions and change analysis)
 
 
-Link to GEE bassed App (4SplitMaps):
 
-- https://waleedgis.users.earthengine.app/view/pululcapp24splitmaps
+
+- Click here to see the GEE based app: [4SplitMaps](https://waleedgis.users.earthengine.app/view/pululcapp24splitmaps)
 
 
 How to use this data in your research
@@ -76,7 +76,7 @@ Please contact authors directly with reasonable request.
 Acknowledgements
 ================
 
-This repository is prepared to publish the results of [Waleed et al. 2021][waleed2021] in the form of GEE based interactive applications.
+This repository is prepared to publish the results of [Waleed & Sajjad (2022)][waleed2021] in the form of GEE based interactive applications.
 
 No specific funding was provided for this research.
 
