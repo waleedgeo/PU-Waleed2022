@@ -20,7 +20,7 @@ If you find this work usefull in any way, don't forget to cite:
 
 **DOI:** https://doi.org/10.1016/j.rsase.2021.100665
 
-**Paper pdf:** [Waleed & Sajjad (2022))][waleed2021]
+**Paper pdf:** [Waleed & Sajjad (2022)][waleed2021]
 
 
 # Abstract
@@ -76,9 +76,9 @@ Please contact authors directly with reasonable request.
 Acknowledgements
 ================
 
-This repository is prepared to publish the results of [Waleed & Sajjad (2022)][waleed2021] in the form of GEE based interactive applications.
+- This repository is prepared to publish the results of [Waleed & Sajjad (2022)][waleed2021] in the form of GEE based interactive applications.
 
-No specific funding was provided for this research.
+- No specific funding was provided for this research.
 
 Contributors
 ============
