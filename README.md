@@ -85,7 +85,7 @@ Contributors
 
 - ### Mirza Waleed [<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" />][Gmail]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="30" title="Google Scholar" />][Google Scholar]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />][LinkedIn]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="30" title="ResearchGate" />][ResearchGate]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="30" title="ORCID" />][orcid]&nbsp;
 
-- ### Muhammad Sajjad [<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="30" title="Gmail" />][Gmail1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="30" title="Google Scholar" />][Google Scholar1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />][LinkedIn1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="30" title="ResearchGate" />][ResearchGate1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="30" title="ORCID" />][orcid1]&nbsp;
+- ### Muhammad Sajjad [<img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="30" title="Gmail" />][Gmail1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="30" title="Google Scholar" />][Google Scholar1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />][LinkedIn1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="30" title="ResearchGate" />][ResearchGate1]&nbsp; [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="30" title="ORCID" />][orcid1]&nbsp;
 
 [Google Scholar]: https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en
 [LinkedIn]: https://www.linkedin.com/in/mirzawaleed197
@@ -99,4 +99,4 @@ Contributors
 [LinkedIn1]: https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/
 [ResearchGate1]: https://www.researchgate.net/profile/Muhammad-Sajjad-4
 [orcid1]: https://orcid.org/0000-0002-1576-1342
-[Gmail]: mailto:mah.sajjad@hotmail.com
+[Gmail1]: mailto:mah.sajjad@hotmail.com
