@@ -76,7 +76,7 @@ Please contact authors directly with reasonable request.
 Acknowledgements
 ================
 
-- This repository is prepared to publish the results of [Waleed & Sajjad (2022)][waleed2021] in the form of GEE based interactive applications.
+- This repository is prepared to publish the results of [Waleed & Sajjad (2022)][waleed2021] in the form of GEE-based interactive application.
 
 - No specific funding was available for this research.
 
@@ -99,3 +99,4 @@ Contributors
 [LinkedIn1]: https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/
 [ResearchGate1]: https://www.researchgate.net/profile/Muhammad-Sajjad-4
 [orcid1]: https://orcid.org/0000-0002-1576-1342
+[Gmail]: mailto:mah.sajjad@hotmail.com
